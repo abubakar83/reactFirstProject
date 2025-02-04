@@ -1,0 +1,18 @@
+react is declarative, 
+browser does not understand react, babel compiler compile the code into javascript. 
+Download Nodes.Js
+node -v
+npm i -g bun (bun is to fast as compare to npm, yarn, pnpm)
+bun -v 
+bun create vite
+cd {name}
+npm install or bun install
+npm run dev or bun dev
+npm install react@rc or bun i react@rc 
+npm install react-dom@rc or bun install react-dom@rc 
+
+    install react by NPM 
+first check node -v
+npm -v 
+npm create vite@latest
+        
