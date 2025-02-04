@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      hello there jani 
+      hello there kia o ra hy
     </>
   )
 }
